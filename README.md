@@ -11,7 +11,7 @@
 <p>Want more? It can indent only selected sub array - including multiple selections. Decode YAML plugin won't mess up your keyboard shortcuts because it uses "chord" command Ctrl+D, Ctrl+Y (this mean hold Ctrl, press D then press Y, release Ctrl) and also available in "Selection" menu. </p>
 
 ## Supported Sublime Text versions
-Indent plugin supports both Sublime Text 3
+Decode YAML plugin supports Sublime Text 3
 
 ## Installation
  - In Sublime Text 3 - clone project from [Github](https://github.com/Lakshman-N/sublimetext_decodeyaml.git) into the user's Packages folder.
