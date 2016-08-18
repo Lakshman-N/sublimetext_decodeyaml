@@ -1,0 +1,3 @@
+[
+	{ "keys": ["ctrl+d", "ctrl+y"], "command": "decode_yaml" }
+]

@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Decode yaml",
+        "command": "decode_yaml"
+    }  
+]
