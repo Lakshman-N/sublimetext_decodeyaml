@@ -14,7 +14,7 @@
 Indent plugin supports both Sublime Text 3
 
 ## Installation
- - In Sublime Text 3 - clone project from [Github](https://github.com/Lakshmanan-N/sublimetext_decodeyaml.git) into the user's Packages folder.
+ - In Sublime Text 3 - clone project from [Github](https://github.com/Lakshman-N/sublimetext_decodeyaml.git) into the user's Packages folder.
     - On Mac, "~/Library/Application Support/Sublime Text 3/Packages/"
     - On Windows, "C:\Users\\{user}\AppData\Roaming\Sublime Text 3\Packages"
 
@@ -22,10 +22,10 @@ Indent plugin supports both Sublime Text 3
 Click on Tools->Command Palette... (or Ctrl+shift+P if you're a keyboard guy) and then chose "Decode YAML"
 
 ## Feedback & Support
-Available on [Github](https://github.com/Lakshmanan-N/sublimetext_decodeyaml.git)
+Available on [Github](https://github.com/Lakshman-N/sublimetext_decodeyaml.git)
 
 ## Contribution
-...is always welcome! Same place - [Github](https://github.com/Lakshmanan-N/sublimetext_decodeyaml.git)
+...is always welcome! Same place - [Github](https://github.com/Lakshman-N/sublimetext_decodeyaml.git)
 
 ## License
 This software is distributed under GPLv3 license (see License.txt for details)
